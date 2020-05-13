@@ -102,6 +102,8 @@ int DisplayError( const char* ErrorText ) {
 }
 
 void Cleanup( void ) {
+    Netdebug_Close( );
+    
     if ( SOCBuffer ) {
         socExit( );
         free( SOCBuffer );
