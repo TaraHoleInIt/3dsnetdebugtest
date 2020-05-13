@@ -1,3 +1,4 @@
+.vscode/*
 build/*
 *.3dsx
 *.smdh
