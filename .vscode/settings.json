@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "gpu.h": "c",
+        "fb8bpp.h": "c",
+        "fb_conv.h": "c",
+        "lc_touch_bin.h": "c",
+        "myosglue.h": "c",
+        "touchmap_bin.h": "c",
+        "controlm.h": "c"
+    }
+}
